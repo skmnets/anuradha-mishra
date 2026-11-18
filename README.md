@@ -43,12 +43,6 @@ An academic website and digital archive honoring the scientific career and landm
 
 ---
 
-## 🔍 Academic Disambiguation
-
-In bibliographic indexes (e.g. Google Scholar, Scopus, OpenAlex), multiple researchers share the name *Anuradha Mishra*. The researcher documented here was active in bovine molecular genomics at **Genmark Inc., Salt Lake City, Utah between 1990 and 1995**. She is distinct from Professor Anuradha Mishra in polymer and green chemistry (Gautam Buddha University) and other namesake scholars.
-
----
-
 ## 💻 Local Preview & Development
 
 To preview this website locally:
