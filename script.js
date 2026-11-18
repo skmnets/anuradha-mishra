@@ -242,7 +242,7 @@ function filterPublications() {
       emptyState = document.createElement('div');
       emptyState.id = 'pub-empty-state';
       emptyState.className = 'col-span-full py-12 text-center text-slate-500 dark:text-slate-400';
-      emptyState.innerHTML = '<p class="text-base font-serif italic">No publications matched your search query or filter.</p>';
+      emptyState.innerHTML = '<p class="text-base text-slate-500 italic">No publications matched your search query or filter.</p>';
       const container = document.getElementById('publications-grid');
       if (container) container.appendChild(emptyState);
     } else {
